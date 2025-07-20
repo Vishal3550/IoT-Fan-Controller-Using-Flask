@@ -18,7 +18,7 @@ A simulated **IoT Fan Controller** web app built with Flask, HTML, CSS, and Java
 
 ```
 
-iot-fan-controller/
+Navariti_iot_project/
 │
 ├── app.py               # Flask app with threading logic
 ├── master.py            # Master controller logic (fan ON/OFF)
@@ -43,8 +43,8 @@ iot-fan-controller/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/iot-fan-controller.git
-cd iot-fan-controller
+git clone https://github.com/Vishal3550/IoT-Fan-Controller-Using-Flask.git
+cd Navariti_iot_project
 ````
 
 ### 2. Set Up a Virtual Environment

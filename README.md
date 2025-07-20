@@ -98,7 +98,7 @@ Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 📷 UI Preview
 
-![Screenshot](static/background.jpg)
+![Screenshot](https://github.com/Vishal3550/IoT-Fan-Controller-Using-Flask/blob/main/UI%20Preview.PNG)
 
 ---
 
